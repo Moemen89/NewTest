@@ -57,5 +57,5 @@ Traceback (most recent call last):
 NameError: name 'true' is not defined
 >>> spam.sort(reverse=True)
 >>> spam
-['dogs', 'cats', 'ants']
+['dogs', 'cats']
 >>> 
